@@ -1,0 +1,25 @@
+.contactBox{
+  transition: 0.5s ease;
+}
+
+.contactBox:hover {
+  transform: scale(1.15);
+}
+
+.aboutMeBox{
+  transition:0.5s ease;
+}
+.aboutMeBox:hover{
+  transform: scale(1.15);
+}
+
+.portfolioBox{
+  transition:0.5s ease;
+}
+.portfolioBox:hover{
+  transform: scale(1.15);
+}
+
+ul a:active {
+   font-size: 30px;
+}
