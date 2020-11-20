@@ -1,0 +1,31 @@
+.clearfix {
+  /* background-color: blue; */
+}
+
+
+.clearfix :hover{
+  transform: scale(1.2);
+}
+
+.contactBox  {
+  transition: all .5s ease-in-out;
+}
+.aboutMeBox {
+  transition: all .5s ease-in-out;
+}
+.portfolioBox {
+  transition: all .5s ease-in-out;
+}
+
+
+ ul a :active { 
+    font-size: 30px; 
+  }
+
+
+
+
+
+
+
+  
